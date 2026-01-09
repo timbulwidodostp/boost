@@ -1,4 +1,9 @@
-D 'DEA': Data envelopment analysis
+D 'boost': Boosting (Boosted Regression) Use boost With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F boost.ado
+F boost.sthlp
+F boost_plugin.plugin
+F boost_predict.ado
+F influence_barchart.ado
+F influence_barchart.sthlp
+F influence_delete.ado
