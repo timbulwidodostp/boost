@@ -1,6 +1,8 @@
 # boost
 Boosting (Boosted Regression) Use boost With STATA 19
 
+https://www.youtube.com/watch?v=gJKl1q-WzAE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
